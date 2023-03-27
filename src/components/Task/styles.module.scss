@@ -1,0 +1,27 @@
+.task {
+    display: block;
+    background: white;
+    margin-top: 10px;
+    margin-left: -40px;
+    border: 1px solid lightgray;
+}
+
+.task:hover {
+    background: lightblue;
+}
+
+.button {
+   font-size: 25px;
+}
+
+.editButton {
+    position: relative;
+    top: -60px;
+    right: -780px;
+}
+
+.deleteButton {
+    position: relative;
+    top: -10px;
+    right: -750px;
+}
